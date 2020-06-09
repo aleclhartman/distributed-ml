@@ -5,4 +5,5 @@ __pycache__/
 env.py
 *.txt
 *.json
-data/
+data/sources_csv
+data/sources_json
